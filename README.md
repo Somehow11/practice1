@@ -1,2 +1,2 @@
 # practice1
-clarifytion of cats and dogs
+distinguish cats and dogs
