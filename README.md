@@ -8,7 +8,7 @@ distinguish cats and dogs
 - `requirements.txt`: 依赖列表
 - 'predictdata/':放入你想识别的照片
 - 'predict.py':识别程序
-特点
+- 特点
 高准确率：在验证集上达到 98.5%+ 的准确率
 简单易用：只需将照片放入 predictdata/ 文件夹
 自动设备检测：无缝切换 GPU/CPU
